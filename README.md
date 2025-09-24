@@ -5,6 +5,7 @@ I'm a 20 years old developper currently learning at 42 Paris school and also stu
 ## 🔭 I’m currently working on ...
 
 - Webserv is a 42 project where we build our own HTTP server in c++. It's a great way to learn about HTTP requests and networking concepts.
+- ft_transcendance is a 42 project where we learn how to create our own fullstack web application.
 - Libasm is a 42 project where we learn assembly and build our own standard C library.
 
 ## 🌱 I’m currently learning ...
